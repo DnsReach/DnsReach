@@ -1,7 +1,7 @@
 ### I am Marcelo 
-### Hi there 👋
 ### Front End Developer 💻
-## Learning React js
+## Learning React js  ⚛️  
+
 
 <!--
 **DnsReach/DnsReach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
