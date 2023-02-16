@@ -1,6 +1,4 @@
 ### I am Marcelo 🇧🇷 🌎 
-### Front End Developer 💻
-## Learning React js  ⚛️  
 
 <a href="https://github.com/DnsReach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnsReach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
